@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[222],{222:function(e,t,s){s.r(t);s(791);var c=s(184);t.default=function(){return(0,c.jsxs)("div",{children:[(0,c.jsx)("h1",{className:"text-center",children:"About Us"}),(0,c.jsx)("h1",{className:"text-center",children:"About Us"}),(0,c.jsx)("h1",{className:"text-center",children:"About Us"}),(0,c.jsx)("h1",{className:"text-center",children:"About Us"}),(0,c.jsx)("h1",{className:"text-center",children:"About Us"})]})}}}]);
+//# sourceMappingURL=222.a0ea4435.chunk.js.map

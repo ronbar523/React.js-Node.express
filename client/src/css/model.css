@@ -1,0 +1,158 @@
+.location {
+  margin-top: 45%;
+  height: 850px;
+}
+
+.button-card {
+  margin-top: -10px;
+}
+
+.desc {
+  margin-left: 450px;
+  margin-top: -470px;
+}
+
+.desc1 {
+  padding-top: 15px;
+  padding-left: 30px;
+}
+
+.desc2 {
+  padding-top: 9px;
+  padding-left: 30px;
+}
+
+.add-cart {
+  padding-left: 30px;
+}
+
+.btn-inf {
+  margin: auto;
+}
+
+.inp-model-reg {
+  width: 485px;
+  margin-left: 5px;
+}
+
+.label-model-reg {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.label-model-reg-email {
+    text-align: center;
+
+}
+
+.label-model-reg-pass {
+    text-align: center;
+
+}
+
+.label-model-reg-con {
+    text-align: center;
+
+}
+
+.cancel-delete-button {
+  position: relative; top: -10px;
+
+}
+
+.cancel-delete {
+  text-decoration: none;
+}
+
+.openModel {
+  opacity: 0.2;
+}
+
+.openModel2 {
+  opacity: 0.6;
+}
+
+.desc-info {
+  margin-top: 20px;
+  text-decoration: underline;
+}
+
+.label-model-reg-email-login {
+  position: relative; top: -65px;
+}
+
+.input-email-login {
+  position: relative; top: -60px;
+}
+
+.label-model-reg-pass-login {
+  position: relative; top: -140px;
+}
+
+.input-password-login {
+  position: relative; top: -135px;
+}
+
+.footer-login {
+  position: relative; top: 72px
+}
+
+.label-model-reg-email-rest {
+  position: relative; top: -140px;
+}
+
+.inp-model-rest {
+  position: relative; top: -135px;
+}
+
+.footer-rest {
+  position: relative; top: 140px;
+}
+
+.footer-success {
+  position: relative; top: 220px;
+}
+
+.msg-email-login{
+  position: relative; top: -50px
+}
+
+.msg-pass-login {
+   position: relative; top: -120px
+}
+
+.msg-email-rest{
+  position: relative; top: -125px
+}
+
+.info-footer {
+  position: relative; top: -40px
+}
+
+.msg-delete-all {
+  margin-top: 70px;
+}
+
+.footer-delete-all {
+  position: relative; top: -25px;
+}
+
+.openModelPhoto {
+  opacity: 0.5;
+}
+
+.errmsgModel {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: -6.4rem
+}
+
+.errmsgModelForget {
+  background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: -13.4rem
+}

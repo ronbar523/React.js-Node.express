@@ -1,0 +1,265 @@
+.arrow-th{
+  font-size: 14px;
+}
+
+.cart-buy-now {
+  width: 160px;
+  margin-bottom: 20px;
+}
+
+.cart-page {
+  margin-top: -10px;
+}
+
+.title {
+  margin-top: 10px;
+}
+
+@media screen and (min-width: 1084px) {
+.total-cart {
+   width: 70vw;
+   margin-left: 1800px;
+   position: fixed; top: 300px;
+}
+}
+@media screen and (max-width: 1084px) {
+.total-cart {
+   width: 200vw;
+   margin-left: 200px;
+   margin-top: 30px;
+}
+}
+@media screen and (max-width: 768px) {
+
+  table {
+    margin-left: 18%;
+    border: 0;
+  }  
+}
+
+@media screen and (max-width: 1083px) {
+  
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 450px) {
+
+  .btn-arrow-right {
+    margin-top: 2px;
+    margin-left: 21%;
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+  }
+  
+  .btn-arrow {
+    margin-top: 2px;
+    height: 31px;
+    width: 31px;
+    border-radius: 50%;
+    margin-left: 7%;
+  }
+
+  .btn-pay{
+    margin-left: 33px;
+    margin-bottom: 10px;    
+  }
+}
+
+@media screen and (min-width: 451px)  and (max-width: 520px) {
+
+
+  
+  
+
+  .btn-pay{
+    margin-left: 43px;
+    margin-bottom: 10px;    
+  }
+}
+
+@media screen and (min-width: 520px) and (max-width:580px) {
+
+  
+  .btn-pay{
+    margin-bottom: 10px;    
+    margin-left: 50px;
+  }
+
+}
+
+@media screen and (min-width: 581px) and (max-width:660px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+    
+  
+
+  .btn-pay{
+    margin-bottom: 10px;    
+    margin-left: 83px;
+  }
+}
+
+@media screen and (min-width: 661px) and (max-width:768px) {
+
+  table {
+    margin-left: 25%;
+    border: 0;
+  }
+
+  .btn-pay{
+    margin-bottom: 10px;    
+    margin-left: 100px;
+  }
+}
+
+
+
+@media screen and (min-width: 769px) and (max-width: 825px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+  
+  .btn-pay{
+    margin-bottom: 10px;
+    margin-left: 110px;
+  }
+}
+
+@media screen and (min-width: 826px) and (max-width: 900px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+
+  .btn-pay{
+    margin-left: 120px;
+    margin-bottom: 10px;    
+  }
+}
+
+@media screen and (min-width: 901px) and (max-width: 961px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+  
+  .btn-pay{
+    margin-left: 130px;
+    margin-bottom: 10px;
+  }
+}
+    
+@media screen and (min-width: 962px) and (max-width: 1040px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+
+  .btn-pay{
+    margin-bottom: 10px;
+    margin-left: 140px;
+  }
+}
+
+@media screen and (min-width: 1041px) and (max-width: 1083px) {
+
+  table {
+    border: 0;
+    margin-left: 25%;
+  }
+
+    
+  .btn-pay{
+    margin-bottom: 10px;
+    margin-left: 150px;
+  }   
+}
+
+@media screen and (min-width: 1084px) {
+
+  .btn-infoPrice {
+    clip: rect(0 0 0 0);
+    height: 1px;
+    border: none;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .mobile-title {
+    clip: rect(0 0 0 0);
+    height: 1px;
+    border: none;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  
+  .model-position { 
+    position: relative; top: 80px;
+  }
+}
+
+.page-height {
+  height: 1550px;
+}
+
+
+.button-cart {
+  margin-top: -1px;
+}

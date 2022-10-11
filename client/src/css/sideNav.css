@@ -1,0 +1,83 @@
+nav {
+  position: fixed;
+  background-color: #ffffff;
+  opacity: 1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 350px;
+  z-index: 100;
+  box-shadow: 21px 2px 48px -1px black;
+  margin-top: 55px;
+}
+
+button.toggle {
+  background-color: #ffffff;
+  z-index: 101;
+  position: fixed;
+  outline: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  top: 78px;
+  /* left: 30px; */
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.x {
+  position: absolute; left: 275px;
+}
+.arrow {
+   position: absolute; left: 30px;
+}
+
+.hr-nav {
+  margin-top: 31%;
+}
+
+.theme-title {
+  margin-left: 35px;
+}
+
+.btn-one {
+  width: 350px;
+  margin-bottom: 30px;
+}
+
+.btn-two {
+  width: 350px;
+  margin-bottom: -10px;
+  margin-top: -40px;
+}
+
+.btn-three {
+  width: 350px;
+  margin-bottom: -20px;
+}
+
+.btn-four {
+  width: 350px;
+  margin-top: 30px;
+}
+
+.btn-five {
+  width: 350px;
+  margin-top: 10px;
+}
+
+.btn-six {
+  width: 350px;
+  margin-top: 10px;
+}
+
+.btn-seven {
+  width: 250px;
+  margin-top: 10px;
+}
+
+.btn-eight {
+  width: 250px;
+  margin-top: 10px;
+}
